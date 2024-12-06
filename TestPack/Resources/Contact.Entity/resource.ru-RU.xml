@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Columns.Ns_Editable.Caption" Value="Ns_Editable" />
+			<Item Name="Columns.NsBoolean.Caption" Value="Логическое" />
+			<Item Name="Columns.NsString.Caption" Value="Строка" />
 			<Item Name="Columns.NsFloat.Caption" Value="Дробное число" />
 			<Item Name="Columns.NsInteger.Caption" Value="Целое число" />
 			<Item Name="Columns.NsTestBool.Caption" Value="Bool" />
