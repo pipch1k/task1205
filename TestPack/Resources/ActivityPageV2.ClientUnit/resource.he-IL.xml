@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="שיחות" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="מחובר לפרויקט" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="לוח הודעות" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="פרויקטמשימה" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="הערך בשדה &quot;פרוייקט&quot; אינו נכון" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="משימת הפרויקט שלשמה נוצרה הפעילות. ניתן להשתמש בפעילות זו מאוחר יותר לחישוב שעות העבודה בפרויקט" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="איש הקשר {0} לא צוין ברשימת המשאבים של הפרויקט. האם ברצונך להוסיף רשומה חדשה לרשימת המשאבים?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="עקוב אחר לוח ההודעות" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="אתה עוקב אחרי לוח ההודעות: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ציר זמן" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="בטל מעקב אחר לוח ההודועות" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="הפסקת לעקוב אחרי לוח ההודעות: {0}" />
+		</Items>
+	</Group>
+</Resources>

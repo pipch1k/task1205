@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9c33946-0962-4e88-a95f-b65f3216b79a",
+    "Name": "Employee",
+    "ModifiedOnUtc": "\/Date(1732700193000)\/",
+    "Parent": {
+      "UId": "fb1c2bed-91d4-4b06-a28c-621a3d187008",
+      "Name": "Employee"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Сотрудник"
+  }
+}

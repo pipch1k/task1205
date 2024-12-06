@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "1569f922-4280-4653-b30a-f83b75fa7649",
+    "Name": "OrderPageV2",
+    "ModifiedOnUtc": "\/Date(1731319030000)\/",
+    "Parent": {
+      "UId": "23d86ac4-1d23-4314-a5e3-5da5e61b495a",
+      "Name": "OrderPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования заказа",
+    "DependsOn": []
+  }
+}

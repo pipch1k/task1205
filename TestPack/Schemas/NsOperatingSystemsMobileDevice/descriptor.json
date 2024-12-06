@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6342b7ed-d5f3-4a08-ae99-0a5cb2fffd04",
+    "Name": "NsOperatingSystemsMobileDevice",
+    "ModifiedOnUtc": "\/Date(1732782151000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Операционные системы мобильных устройств"
+  }
+}

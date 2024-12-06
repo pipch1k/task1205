@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "93a8bb34-ede4-4c70-abd3-9ad99f7c489b",
+    "Name": "UsrProductMiniPage",
+    "ModifiedOnUtc": "\/Date(1731329972000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Мини-карточка продукта"
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "a46a1bef-0dd9-71b7-412d-622a2edb3fbf",
+    "Name": "TestPack",
+    "ModifiedOnUtc": "\/Date(1731314690000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}

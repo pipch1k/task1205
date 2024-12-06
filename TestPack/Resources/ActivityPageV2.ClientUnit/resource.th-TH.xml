@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="การโทรศัพท์" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="เชื่อมต่อกับโครงการ" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="ฟีด" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="โครงการ/งาน" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="ค่าในฟิลด์ &quot;โครงการ&quot; ไม่ถูกต้อง" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="งานของโครงการที่กิจกรรมได้สร้างให้. อาจต้องใช้กิจกรรมนี้ภายหลังในการคำนวณชั่วโมงทำงานของโครงการ" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="ผู้ติดต่อ {0} ไม่ถูกระบุในรายการองทรัพยากรของโครงการ  คุณต้องการเพิ่มบันทึกใหม่ที่รายการของทรัพยากรหรือไม่?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="ติดตามฟีด" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="ตอนนี้คุณกำลังติดตามฟีด: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="ไทมไลน์" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="ยกเลิกการติดตามฟีด" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="คุณได้หยุดติดตามฟีด: {0}" />
+		</Items>
+	</Group>
+</Resources>

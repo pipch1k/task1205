@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Apeluri" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Conectat la proiect" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Alimentare" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Proiect/sarcina" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="Valoarea din campul &quot;Proiect&quot; nu este corecta" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="Sarcina proiect pentru care activitatea a fost creata. Aceasta activitate poate fi folosita mai tarziu pentru a calcula orele de munca pentru proiect" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Contact {0} nu este specificat in lista de resurse ale proiectului. Doriti da adaugati o noua inregistrare la lista de resurse?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Urmati alimentarea" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="In acest moment urmati alimentarea: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ati renuntat la urmarirea alimentarii: {0}" />
+		</Items>
+	</Group>
+</Resources>

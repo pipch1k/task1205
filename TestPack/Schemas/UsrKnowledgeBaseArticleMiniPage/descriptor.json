@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "867c9d81-7768-4be9-86d3-96eaade6b5ba",
+    "Name": "UsrKnowledgeBaseArticleMiniPage",
+    "ModifiedOnUtc": "\/Date(1731329049000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Миникарточка базы знаний"
+  }
+}

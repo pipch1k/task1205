@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Samtal" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Kopplad till projekt" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Flöde" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Projekt/uppgift" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="Värdet i fältet &quot;Projekt&quot; är inte korrekt" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="Projektuppgiften för vilken aktiviteten har skapats. Denna aktivitet kan användas senare för att beräkna projektarbetstimmar" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Kontakt {0} är inte angiven i projektets lista med resurser. Vill du lägga till en ny post i listan med resurser?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Du följer nu inlägg: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tidslinje" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Du har slutat följa inlägg: {0}" />
+		</Items>
+	</Group>
+</Resources>

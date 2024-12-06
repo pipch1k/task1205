@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="По оплате выставлен счет. Вы хотите изменить данные счета?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Создать договор на основании заказа" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Создать счет на основании заказа" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="Не удалось найти процесс из системной настройки CreateInvoiceFromOrderProcess." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.InfoActionCaption.Value" Value="Показать дату выполнения" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Лиды" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Связать продукты в заказе с договором?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Продажа" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Продажа, в рамках которой создан заказ. Значения в поле отфильтрованы по контрагенту и контакту, указанным в заказе" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Паспорт заказа" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Все" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Выбрать" />
+		</Items>
+	</Group>
+</Resources>

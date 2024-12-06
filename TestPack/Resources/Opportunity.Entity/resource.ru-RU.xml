@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.NsBalance.Caption" Value="Остаток бюджета" />
+			<Item Name="Columns.NsBalance.Description" Value="Разница между бюджетом клиента и суммой продажи" />
+		</Items>
+	</Group>
+</Resources>

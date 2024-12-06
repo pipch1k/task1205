@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="تماسها" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="متصل به پروژه" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="فید" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="پروژه/وظیفه" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="فیلد پروژه نادرست است" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="The project task for which the activity was created. This activity may be used later to calculate project work hours" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="مخاطب {0} در لیست منابع پروژه مشخص نشده است. آیا می خواهید یک رکورد جدید به لیست منابع اضافه کنید؟?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="دنبال کردن فید" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="پیگیری این فید را آغاز نمودید: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="تایم لاین" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="لغو دنبال کردن فید" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="پیگیری این فید را متوقف نمودید: {0}" />
+		</Items>
+	</Group>
+</Resources>
