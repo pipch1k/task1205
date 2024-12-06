@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Дзвінки" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Зв'язок з проектом" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Проект/робота" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="Значення поля &quot;Проект&quot; некоректно" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="Проектна робота, в рамках якої створена активність. Активність використовується для розрахунку фактичних трудовитрат за проектом. Значення в полі відфільтровані за продажем, контактом та контрагентом в активності" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Контакт {0} не вказано в аркуші ресурсів проекту. Додати новий запис в аркуш ресурсів?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатись від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c655ef4-083b-47b7-a8ac-4a8787439644",
+    "Name": "AccountAddressDetailV2",
+    "ModifiedOnUtc": "\/Date(1732713779000)\/",
+    "Parent": {
+      "UId": "752c4a52-80fa-4662-ab4b-0c16a379a10e",
+      "Name": "AccountAddressDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Деталь адресов контрагента"
+  }
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Ns_Editable.Caption" Value="Ns_Editable" />
+			<Item Name="Columns.NsBoolean.Caption" Value="Логическое" />
+			<Item Name="Columns.NsString.Caption" Value="Строка" />
+			<Item Name="Columns.NsTestBool.Caption" Value="Bool" />
+			<Item Name="Columns.NsTestDatetime.Caption" Value="Datetime" />
+			<Item Name="Columns.NsTestInt.Caption" Value="Int" />
+			<Item Name="Columns.NsTestLookup.Caption" Value="Lookup" />
+			<Item Name="Columns.NsTestString.Caption" Value="String" />
+		</Items>
+	</Group>
+</Resources>

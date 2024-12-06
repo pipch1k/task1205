@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.AccountInserting.Caption" Value="AccountInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_061475422a8345f88274fa965cb9dd16.Caption" Value="Изменение имени + &quot;Создан по событию&quot;" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_03da65908b4d4d24bb875aff8f17641c.Caption" Value="Перед добавлением записи" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_403dac6149044d9e9254ba79ca9affb4.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_403dac6149044d9e9254ba79ca9affb4.Lanes.Lane_f51f3ecb0984472e8631a44834a4f6ba.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.CanGenerateAnniversaryReminding.Caption" Value="CanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.EntityChangedColumns.Caption" Value="EntityChangedColumns" />
+			<Item Name="EventsProcessSchema.Parameters.OldParentId.Caption" Value="OldParentId" />
+			<Item Name="EventsProcessSchema.Parameters.ParentIdIsNotNull.Caption" Value="ParentIdIsNotNull" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

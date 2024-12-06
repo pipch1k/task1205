@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования заказа" />
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="An invoice has been generated for the payment. Do you want to modify the invoice data?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="New contract based on order" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="New invoice based on this order" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess does not contain any process value." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Attachments and notes" />
+			<Item Name="LocalizableStrings.InfoActionCaption.Value" Value="Показать дату выполнения" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Connect the ordered products to contract?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Opportunity" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="An opportunity for which the order was created. The lookups are filtered by the contact and account specified in the order" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Order details" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="All" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Select" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Создание контакта &quot;Иванов&quot;" />
+			<Item Name="BaseElements.ScriptTask2.Caption" Value="Обновление рабочего телефона" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Создан контрагент без основного контакта" />
+			<Item Name="BaseElements.StartSignal1.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="BaseElements.StartSignal2.Caption" Value="Создан контрагент с основным контактом" />
+			<Item Name="BaseElements.StartSignal2.Parameters.RecordId.Caption" Value="Уникальный идентификатор записи" />
+			<Item Name="Caption" Value="Работа ESQ и прямыми запросами к базе" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.IdAccountWithContact.Caption" Value="IdAccountWithContact" />
+			<Item Name="Parameters.IdAccountWithContact.DisplayValue" Value="[#Создан контрагент с основным контактом.Уникальный идентификатор записи#]" />
+			<Item Name="Parameters.IdAddedAccount.Caption" Value="IdAddedAccount" />
+			<Item Name="Parameters.IdAddedAccount.DisplayValue" Value="[#Создан контрагент без основного контакта.Уникальный идентификатор записи#]" />
+			<Item Name="Parameters.ProcessSchemaParameter1.Caption" Value="Result" />
+		</Items>
+	</Group>
+</Resources>

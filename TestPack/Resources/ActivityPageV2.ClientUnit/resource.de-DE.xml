@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Anrufe" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Verbunden zu Projekt" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Projekt/Aufgabe" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="Der Wert im &quot;Projekt&quot;-Feld ist nicht korrekt" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="Die Projektaufgabe für welche die Aktivität erzeugt wurde. Diese Aktivität kann später für die Berechnung der Projektarbeitsstunden genutzt werden" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Kontakt {0} ist nicht in der Ressourcenliste des Projekts angegeben. Soll ein neuer Satz zur Ressourcenliste hinzugefügt werden?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Dem Feed folgen" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Sie folgen jetzt dem Feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Feed nicht mehr folgen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Sie folgen nicht mehr dem Feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Звонки" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Связь с проектом" />
+			<Item Name="LocalizableStrings.CreatedOnLessDueDateMessage.Value" Value="Дата создания должна быть меньше даты закрытия" />
+			<Item Name="LocalizableStrings.CreationOwnerActionCaption.Value" Value="Показать ответственногоPage" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Проект/работа" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="Значение поля &quot;Проект&quot; некорректно" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="Проектная работа, в рамках которой создана активность. В дальнейшем активность используется для расчета фактических трудозатрат по проекту. Значения в поле отфильтрованы по продаже, контакту и контрагенту в активности" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Контакт {0} не указан в листе ресурсов проекта. Добавить новую запись в лист ресурсов?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

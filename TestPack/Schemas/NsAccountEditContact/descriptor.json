@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "b3064d13-0ffc-466a-afd1-36e50c3238ef",
+    "Name": "NsAccountEditContact",
+    "ModifiedOnUtc": "\/Date(1731512424000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Работа ESQ и прямыми запросами к базе"
+  }
+}

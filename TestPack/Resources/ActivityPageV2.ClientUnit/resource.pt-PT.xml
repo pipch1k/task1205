@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Chamadas" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Conectado ao projeto" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Projeto/tarefa" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="O valor no campo&quot;Projeto&quot; não está correto" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="A tarefa do projeto para o qual a atividade foi criada. Esta atividade pode ser usada mais tarde para calcular as horas de trabalho do projeto" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Contato {0} não está especificado na lista de recursos do projeto. Deseja adicionar um novo registo à lista de recursos?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Está a seguir o feed: {0} {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

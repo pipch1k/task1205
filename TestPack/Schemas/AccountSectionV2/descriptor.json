@@ -1,0 +1,14 @@
+{
+  "Descriptor": {
+    "UId": "1d625f1a-a537-42af-bba8-28ff59c0c178",
+    "Name": "AccountSectionV2",
+    "ModifiedOnUtc": "\/Date(1732699210456)\/",
+    "Parent": {
+      "UId": "65bb2306-7314-4605-a863-04a410798497",
+      "Name": "AccountSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Контрагенты\""
+  }
+}

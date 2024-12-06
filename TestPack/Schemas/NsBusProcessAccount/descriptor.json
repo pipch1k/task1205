@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "6272ddd4-e955-4a2d-90fa-68abe0817ef3",
+    "Name": "NsBusProcessAccount",
+    "ModifiedOnUtc": "\/Date(1732630125000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "БП из действия КонтрАгента"
+  }
+}

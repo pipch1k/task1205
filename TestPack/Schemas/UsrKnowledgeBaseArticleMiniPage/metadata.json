@@ -1,0 +1,13 @@
+= MetaData.Schema.UId "867c9d81-7768-4be9-86d3-96eaade6b5ba"
+= MetaData.Schema.A2 "UsrKnowledgeBaseArticleMiniPage"
+= MetaData.Schema.A5 "58895c8a-edad-4084-9dbb-ac600067fc07"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A4 "867c9d81-7768-4be9-86d3-96eaade6b5ba"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A5 "58895c8a-edad-4084-9dbb-ac600067fc07"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A4 "867c9d81-7768-4be9-86d3-96eaade6b5ba"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A5 "58895c8a-edad-4084-9dbb-ac600067fc07"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A4 "867c9d81-7768-4be9-86d3-96eaade6b5ba"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A5 "58895c8a-edad-4084-9dbb-ac600067fc07"
+= MetaData.Schema.B6 "a46a1bef-0dd9-71b7-412d-622a2edb3fbf"
+= MetaData.Schema.B8 "7.18.5.1500"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

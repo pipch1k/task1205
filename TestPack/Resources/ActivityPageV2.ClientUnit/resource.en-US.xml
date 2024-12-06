@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования активности" />
+			<Item Name="LocalizableStrings.CallTabCaption.Value" Value="Calls" />
+			<Item Name="LocalizableStrings.ConnectionWithProjectDetailCaption.Value" Value="Connected to project" />
+			<Item Name="LocalizableStrings.CreatedOnLessDueDateMessage.Value" Value="Дата создания должна быть меньше даты закрытия" />
+			<Item Name="LocalizableStrings.CreationOwnerActionCaption.Value" Value="Показать ответственногоPage" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Caption" Value="Full project caption" />
+			<Item Name="LocalizableStrings.FullProjectCaption.Value" Value="Project/task" />
+			<Item Name="LocalizableStrings.FullProjectNameChangedWithoutProjectSelectionWarning.Value" Value="The value in the &quot;Project&quot; field is not correct" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.FullProjectNameTip.Value" Value="The project task for which the activity was created. This activity may be used later to calculate project work hours" />
+			<Item Name="LocalizableStrings.ProjectResourceElementMissing.Value" Value="Contact {0} is not specified in the project's list of resources. Do you want to add a new record to the list of resources?" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="You have stopped following feed: {0}" />
+		</Items>
+	</Group>
+</Resources>
